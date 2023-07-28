@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunrian&count_bg=%23D7B9E3&title_bg=%23C67FE3&icon=github.svg&icon_color=%23F3F1F1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunrian&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunrian&count_private=true&include_all_commits=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunrian&show_icons=true&count_private=true&theme=nightowl)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunrian&show_icons=true&count_private=true&theme=nightowl&include_all_commits=true)
 
