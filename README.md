@@ -4,6 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunrian&count_private=true&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunrian&&show_icons=true&theme=nightowl&hide=stars,prs,issues&hide_rank=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunrian&&show_icons=true&theme=nightowl&hide=stars,prs,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunrian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunrian&layout=compact)
