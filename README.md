@@ -5,7 +5,7 @@
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-blue?style=flat&logoColor=white)](https://hyunrian.tistory.com/)
 
 #
-
+<br>
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyunrian&show_icons=true&theme=buefy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunrian&layout=compact&theme=buefy">
@@ -13,4 +13,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunrian&&show_icons=true&theme=nightowl&hide=stars,prs,issues&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunrian&layout=compact)
