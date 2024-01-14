@@ -7,7 +7,7 @@
 #
 <br>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyunrian&show_icons=true&theme=buefy&hide=rank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyunrian&show_icons=true&theme=buefy&hide_rank=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunrian&layout=compact&theme=buefy">
 </p>
 
