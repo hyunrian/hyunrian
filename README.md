@@ -11,5 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunrian&layout=compact&theme=buefy">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunrian&&show_icons=true&theme=nightowl&hide=stars,prs,issues&count_private=true)
+<!-- 
+stats의 commits은 현재 public 상태인 repository의 commit 수를 체크하여 반영함. public -> private으로 변경하면 commit 수가 변경되어 적용됨. count_private 파라미터는 적용되지 않는 것으로 확인.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunrian&&show_icons=true&theme=nightowl&hide=stars,prs,issues&count_private=true) -->
 
